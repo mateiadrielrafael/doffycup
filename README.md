@@ -1,3 +1,4 @@
+# 🚧 This repo has been moved to [prescientmoon/doffycup](https://github.com/prescientmoon/doffycup) 🚧
 # Doffycup
 
 Doffycup is a small game with the goal of introducing young children to basic programming concepts. An online version you can try for yourself is hosted on [github pages](https://mateiadrielrafael.github.io/doffycup/).
